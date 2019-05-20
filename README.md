@@ -1,2 +1,2 @@
-# wechat_api
-微信相关的类、接口
+# publicApi
+封装公共接口、类
